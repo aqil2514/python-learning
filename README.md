@@ -2,4 +2,4 @@
 
 ## Pemula
 
-- [Kalkulator sederhana](./kalkulator/README.md)
+- [Kalkulator sederhana](/kalkulator/README.md)
